@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityVS.UnityStreamingMovieTexture.CSharp.Plugins", "UnityVS.UnityStreamingMovieTexture.CSharp.Plugins.csproj", "{B10A1409-2185-7525-BD99-2D9ABB3AB42A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityVS.UnityStreamingMovieTexture.CSharp", "UnityVS.UnityStreamingMovieTexture.CSharp.csproj", "{1C529713-AA78-617B-8B5B-66A099857B14}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B10A1409-2185-7525-BD99-2D9ABB3AB42A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B10A1409-2185-7525-BD99-2D9ABB3AB42A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B10A1409-2185-7525-BD99-2D9ABB3AB42A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B10A1409-2185-7525-BD99-2D9ABB3AB42A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C529713-AA78-617B-8B5B-66A099857B14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C529713-AA78-617B-8B5B-66A099857B14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C529713-AA78-617B-8B5B-66A099857B14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C529713-AA78-617B-8B5B-66A099857B14}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
